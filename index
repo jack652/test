@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Urban Park</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1><a href="page2.html">vers la page 2</a></h1>
+  <h1>Urban Park</h1>
+  <h2>2</h2>
+  <h3>3</h3>
+  <h4>4</h4>
+  <h5>5</h5>
+  <h6>6</h6>
+  <a href="https://www.google.com/search?sca_esv=adb9b9861ab1efe9&sxsrf=ADLYWIJLQ0qM5ddAdNQ1IaLle-SW8Lg5kw:1729262614220&q=monkeys&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sf_uPKlBgHiXUTxuTOrBgkEHAZKBArNMIg_JaUOYCTVNreNhAlJbFKEmzPuAQkoiBtIhrPYKQR3WHGzgZYwxf2NkHIa-s&sa=X&ved=2ahUKEwi34t-elZiJAxW92AIHHe0IM1sQtKgLegQIGhAB&biw=1691&bih=889&dpr=1.5">lien</a>
+
+  <p><b><i>«Prenez garde, O voyageur, la route voyage aussi»</i>, a écrit Rainer Maria Rilke…</b></p>
+  <p>Un paysage, loin d'être une réalité figée, est l'expérience et l'interaction, une interface négociée entre l'environnement et la personne qui le peuple avec ses pas et ses émotions. Collectivement et individuellement, nous et le paysage tissons ensemble un scénario mêlant le réel et le symbolique, le culturel et le naturel, l'objectif et le subjectif.</p>
+  <img src="dance.gif" alt="dance"> <img src="digital_me_aj.svg" alt="digital me">
+  <!-- <img src="w.webp" alt="fuck you"> -->
+  <img src="monkey_judgment-8kuhd.jpg" alt="monke">
+
+</body>
+</html>
+
+
