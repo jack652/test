@@ -1,0 +1,15 @@
+body
+    {
+    /* background-image: url('monkey_selfie.jpg'); */
+    background-image: url("w2.webp");
+    /* background-color: black; */
+    color:red;
+    font-family:"comic sans MS";
+    }
+i
+    {
+    color : gold;
+    font-family:"papyrus"
+}
+
+
